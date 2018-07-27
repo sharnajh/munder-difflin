@@ -1,2 +1,2 @@
 # munder-difflin
-Mock website for a fictional paper company
+A mock website for a paper company made with HTML, CSS, and JavaScript.
